@@ -149,3 +149,9 @@ git checkout master
 git merge feature
 git log --oneline
 ls
+git status
+git branch
+sudo su
+git log --oneline
+git commit -m "file on master"
+sudo su
